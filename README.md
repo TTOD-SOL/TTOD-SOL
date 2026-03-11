@@ -86,3 +86,19 @@ This project explores how machine learning can improve equipment diagnostics by:
 • predicting repair requirements before maintenance begins  
 
 The system architecture combines anomaly detection, fault classification, repair-time estimation, and technician feedback loops to create a practical predictive maintenance intelligence layer.
+
+## System Architecture
+
+Sensor Data
+        ↓
+Feature Engineering
+        ↓
+Anomaly Detection
+        ↓
+Fault Classification
+        ↓
+Failure Pattern Analysis
+        ↓
+Repair Intelligence
+        ↓
+Technician Feedback Learning Loop
