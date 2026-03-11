@@ -73,10 +73,16 @@ Data Pipelines
 
 ---
 
-## Connect With Me
+## Industrial Context
 
-LinkedIn  
-https://linkedin.com/in/onoray-davis-01587016b
+Modern automated logistics environments generate large volumes of equipment sensor alerts. 
+However, many alerts are noisy or triggered by temporary operational conditions such as peak system load.
 
-GitHub  
-https://github.com/TTOD-
+This project explores how machine learning can improve equipment diagnostics by:
+
+• distinguishing real developing failures from operational noise  
+• learning from technician repair outcomes  
+• identifying recurring mechanical failure patterns  
+• predicting repair requirements before maintenance begins  
+
+The system architecture combines anomaly detection, fault classification, repair-time estimation, and technician feedback loops to create a practical predictive maintenance intelligence layer.
