@@ -1,104 +1,44 @@
-## Hi there 👋
+# Onoray Davis III
 
+**AI/ML Engineer · Industrial Predictive Maintenance · Data Platform Engineering**
 
-# Onoray Davis
-AI Systems Engineer | Machine Learning Infrastructure | Predictive Maintenance | Data Pipelines
-
-I build AI and data systems that turn complex operational data into practical decision tools.
-
-My work focuses on anomaly detection, predictive maintenance, machine learning pipelines, and automated analytics infrastructure.
-
-My background combines hands-on experience working in high-volume automated logistics environments with applied machine learning engineering.
+U.S. Air Force veteran building the predictive systems that monitor the equipment I used to maintain.
 
 ---
 
-## Core Focus Areas
+## Background
 
-- Predictive Maintenance
-- Anomaly Detection
-- Machine Learning Systems
-- Data Pipelines
-- Industrial AI
-- Time-Series Analysis
+I started as a Tactical Aircraft Maintenance Apprentice in the Air Force. I've welded rail equipment for Siemens Mobility, wound coils for industrial motors at Toshiba, run dispatch at UPS, and currently maintain automated material-handling equipment at one of the highest-volume FedEx Ground facilities in the country.
 
----
+I now build AI systems for the same kinds of equipment I've spent years working on — predictive maintenance, anomaly detection, and operational reliability tooling for high-throughput industrial environments.
 
-## Featured Projects
-
-### Maintenance Intelligence & Predictive Repair System
-An adaptive predictive maintenance platform designed to reduce false alerts and predict likely equipment failures using sensor behavior, repair history, and technician feedback.
-
-Key capabilities:
-- anomaly detection for sensor data
-- fault classification
-- repair-time estimation
-- parts recommendation
-- technician feedback learning
-
-Tech Stack:
-Python, Pandas, Scikit-learn, Time-Series Analysis
+I completed the Post Graduate Program in AI & Machine Learning at the University of Texas at Austin (McCombs School of Business) in January 2026.
 
 ---
 
-### Precise Anomaly Detection
-Precision-first anomaly detection system built for multivariate sensor data.
+## What I'm Working On
 
-Features:
-- high-precision anomaly detection
-- explainable alerts
-- multivariate time-series modeling
+### Industrial Intelligence
+- **[maintenance-intelligence-system](https://github.com/TTOD-SOL/maintenance-intelligence-system)** — End-to-end predictive maintenance stack with sensor anomaly detection, fault classification, repair-time estimation, and a technician feedback learning loop.
+- **[precise-anomaly-detection-v01](https://github.com/TTOD-SOL/precise-anomaly-detection-v01)** — Precision-first multivariate sensor anomaly detector designed to minimize false alarms in production environments.
+- **[downtime-analytics-pipeline-V01](https://github.com/TTOD-SOL/downtime-analytics-pipeline-V01)** — ETL pipeline computing reliability KPIs (MTBF, MTTR) and failure-mode insights from operational downtime data.
 
----
-
-### Downtime Analytics Pipeline
-ETL pipeline analyzing 4,000+ downtime events to generate reliability insights and MTBF metrics.
-
-Features:
-- ETL pipeline design
-- reliability analytics
-- operational performance metrics
+### In Active Development (private)
+- **Federal Contract Intelligence Platform** — Live production application that ingests SAM.gov solicitations, scores them against contractor profiles, and generates customized outreach. Python · FastAPI · PostgreSQL · Vercel · Stripe.
+- **Multi-strategy algorithmic trading system** — Six-strategy registry with regime gating, multi-source data validation, and a setup lifecycle framework. Currently in paper-trading validation.
 
 ---
 
-## Tech Stack
+## What I'm Looking For
 
-Python  
-Pandas  
-NumPy  
-Scikit-learn  
-SQL  
-Machine Learning  
-Time-Series Analysis  
-Data Pipelines
+Remote AI/ML engineering roles where industrial domain expertise is an advantage — predictive maintenance, reliability, operations intelligence, federal contracting, fintech infrastructure, or anywhere data engineering meets real-world systems.
+
+**Eligible for security clearance.**
 
 ---
 
-## Industrial Context
+## Contact
 
-Modern automated logistics environments generate large volumes of equipment sensor alerts. 
-However, many alerts are noisy or triggered by temporary operational conditions such as peak system load.
-
-This project explores how machine learning can improve equipment diagnostics by:
-
-• distinguishing real developing failures from operational noise  
-• learning from technician repair outcomes  
-• identifying recurring mechanical failure patterns  
-• predicting repair requirements before maintenance begins  
-
-The system architecture combines anomaly detection, fault classification, repair-time estimation, and technician feedback loops to create a practical predictive maintenance intelligence layer.
-
-## System Architecture
-
-Sensor Data
-        ↓
-Feature Engineering
-        ↓
-Anomaly Detection
-        ↓
-Fault Classification
-        ↓
-Failure Pattern Analysis
-        ↓
-Repair Intelligence
-        ↓
-Technician Feedback Learning Loop
+📍 Brookshire, TX (open to remote)
+📧 trusiv1@gmail.com
+💼 [LinkedIn](https://linkedin.com/in/onoray-davis-01587016b)
